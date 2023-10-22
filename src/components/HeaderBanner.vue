@@ -1,7 +1,7 @@
 <template>
 <nav class="bg-white border-gray-200 dark:bg-gray-900">
   <div class="flex flex-wrap items-center justify-between mx-auto p-4">
-  <div class="flex items-center mx-7">
+  <div class="flex items-center mx-10">
       <img src="src/assets/logo.svg" class="h-8 mr-3" alt="company Logo" />
   </div>
   <div class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1">
@@ -20,7 +20,7 @@
       </li>
     </ul>
   </div>
-  <div class="flex items-center md:order-2  px-10 gap-4">
+  <div class="flex items-center md:order-2  px-10 gap-10">
       <button type="button" class="flex mr-3 text-sm md:mr-0" id="alert-button">
         <img class="w-7 h-7 rounded-full" src="src/assets/icons/alert.svg" alt="alert icon">
       </button>
