@@ -49,8 +49,8 @@
       <div class="col-span-3 text-center md:text-left md:col-span-3">
         <p class="pb-1 text-lg font-medium text-gray-400">Newsletter</p>
         <div class="mt-7 flex">
-            <input type="text" class="p-2 border border-grey-light round text-grey-dark text-sm h-auto" placeholder=" Enter your email address">
-            <button class="bg-orange text-white rounded-sm h-auto text-xs p-3">Subscribe</button>
+            <input type="text" class="p-2 border-b-2 border-black round text-grey-dark text-sm h-auto" placeholder=" Enter your email address">
+            <button class="bg-orange border-b-2 mx-5 border-black rounded-sm h-auto p-3 font-medium">Subscribe</button>
         </div>
     </div>
 		</div>
