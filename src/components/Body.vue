@@ -8,9 +8,9 @@
     </div>
            
   <div class="grid grid-cols-3 justify-items-center mt-14">
-  <div> <img src="src/assets/products/dining.svg"></div>
-  <div> <img src="src/assets/products/livingroom.svg" ></div>
-  <div> <img src="src/assets/products/bedroom.svg" ></div>
+  <div> <img src="../assets/products/dining.svg"></div>
+  <div> <img src="../assets/products/livingroom.svg" ></div>
+  <div> <img src="../assets/products/bedroom.svg" ></div>
   <div class="font-bold mt-6">Dining</div> 
   <div class="font-bold mt-6">Living</div>
   <div class="font-bold mt-6">Bedroom</div>
@@ -34,7 +34,7 @@
          <div class="w-full md:w-96 lg:w-72 bg-gray-100">
             <div class="w-full mb-10">
                <div class=" group mb-8 overflow-hidden rounded hover:bg-black">
-                <img src="src/assets/products/Images.svg" alt="image" >
+                <img src="../assets/products/Images.svg" alt="image" >
                 <button class="invisible group-hover:visible  
             absolute pr-10 pl-10 pt-2 pb-2 mt-24  
             ml-4 bg-white text-yellow-600 font-semibold"> 
@@ -53,7 +53,7 @@
          <div class="w-full md:w-96 lg:w-72 bg-gray-100">
             <div class="w-full mb-10">
                <div class="mb-8 overflow-hidden rounded hover:bg-black">
-                <img src="src/assets/products/Images.svg" alt="image">
+                <img src="../assets/products/Images.svg" alt="image">
                </div>
                <div class="px-4 font-semibold">
                 <div class="text-2xl">Sytherine</div>
@@ -66,7 +66,7 @@
          <div class="w-full md:w-96 lg:w-72 bg-gray-100">
             <div class="w-full mb-10">
                <div class="mb-8 overflow-hidden rounded hover:bg-black">
-                <img src="src/assets/products/Images.svg" alt="image">
+                <img src="../assets/products/Images.svg" alt="image">
                </div>
                <div class="px-4 font-semibold">
                 <div class="text-2xl">Sytherine</div>
@@ -80,7 +80,7 @@
          <div class="w-full md:w-96 lg:w-72 bg-gray-100">
             <div class="w-full mb-10">
                <div class="mb-8 overflow-hidden rounded hover:bg-black">
-                <img src="src/assets/products/Images.svg" alt="image">
+                <img src="../assets/products/Images.svg" alt="image">
                </div>
                <div class="px-4 font-semibold">
                 <div class="text-2xl">Sytherine</div>
