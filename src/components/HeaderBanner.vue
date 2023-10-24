@@ -42,17 +42,17 @@
 </nav>
 
 <section class="mx-auto p-10 px-0 md:p-10 md:px-0">
-    <section class="relative px-10 md:p-0 transform duration-500 hover:shadow-2xl cursor-pointer hover:-translate-y-1 ">
+    <section class="relative px-10 md:p-0 transform duration-500 hover:shadow-2xl cursor-pointer hover:-translate-y-1">
         <img src="../assets/banner.jpg" class="h-screen w-screen">
-        <div class="content bg-orange-100 p-2 pt-8 md:p-12 pb-12 lg:max-w-xl lg:px-14 md:max-w-4xl w-full lg:absolute  bottom-96 right-5 mr-8">
-            <div class="flex justify-between font-bold text-sm">
+        <div class="bg-orange-100 p-2 pt-8 md:pb-5 md:p-12 pb-12 lg:max-w-xl max-h lg:px-14 md:max-w-4xl sm:max-w-lg w-full lg:absolute md:bottom-52 lg:bottom-[40%] right-5 mr-8">
+            <div class="flex justify-between font-bold lg:text-sm md:text-sm sm:text-xs">
                 <p>New arrival</p>
             </div>
-            <h2 class="text-6xl text-yellow-600 font-semibold mt-4 md:mt-1">Discover Our New Collection</h2>
+            <h2 class="text-6xl text-yellow-600 font-semibold mt-4 md:mt-1 sm:text-4xl">Discover Our New Collection</h2>
             <p class="my-3 text-justify leading-relaxed">Lorem ipsum dolor sit amet
                 consectetur adipisicing elit. Autem aperiam nulla cupiditate saepe sed quis veritatis minus rem adipisci
                 aliquid.</p>
-            <button class="mt-2 md:mt-5 p-3 px-5 bg-yellow-600 text-white font-bold text-sm hover:bg-black">Buy Now</button>
+            <button class="mt-2 md:mt-5 p-3 px-5 bg-yellow-600 text-white font-bold text-sm hover:text-yellow-600 border border-yellow-600 hover:bg-white focus:outline-none">Buy Now</button>
         </div>
     </section>
   </section>

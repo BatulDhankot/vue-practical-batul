@@ -1,6 +1,5 @@
 <template>
-  <footer class="py-6 dark:bg-gray-800 dark:text-gray-50">
-	<div class="container px-6 mx-auto space-y-6 divide-y divide-gray-400 md:space-y-12 divide-opacity-50">
+	<div class="container px-6 mx-auto space-y-6 divide-y divide-gray-400 md:space-y-12 divide-opacity-50 mt-10">
 		<div class="grid grid-cols-12">
 			<div class="pb-6 col-span-full md:pb-0 md:col-span-3">
 				<a href="#" class="flex justify-center space-x-3 md:justify-start">
@@ -60,5 +59,4 @@
 			</div>
 		</div>
 	</div>
-</footer>
 </template>
